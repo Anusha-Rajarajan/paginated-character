@@ -2,7 +2,7 @@
   display:inline-block;
   flex-direction: column;
   align-items: center;
-  margin-left:250px;
+  margin-left:350px;
   text-align: center;
   justify-content:center;
   
@@ -22,7 +22,7 @@
   padding: 15px;
   text-align: center;
   display:inline-block;
-  background-color: azure;
+  background-color: rgb(162, 224, 224);
 }
 
 .character-card img {
@@ -44,7 +44,7 @@
   padding: 10px 20px;
   border: 1px solid #ccc;
   border-radius: 10px;
-  background-color: aqua;
+  background-color: rgb(159, 221, 221);
   cursor: pointer;
   gap: 10px;
 }
